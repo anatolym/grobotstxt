@@ -3,7 +3,7 @@ package grobotstxt_test
 import (
 	"fmt"
 
-	"github.com/jimsmart/grobotstxt"
+	"github.com/anatolym/grobotstxt"
 )
 
 func ExampleAgentAllowed() {

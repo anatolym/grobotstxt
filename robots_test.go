@@ -24,7 +24,7 @@
 package grobotstxt_test
 
 import (
-	"github.com/jimsmart/grobotstxt"
+	"github.com/anatolym/grobotstxt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

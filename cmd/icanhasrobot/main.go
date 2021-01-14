@@ -41,7 +41,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/jimsmart/grobotstxt"
+	"github.com/anatolym/grobotstxt"
 )
 
 func loadFile(filename string) (string, error) {
