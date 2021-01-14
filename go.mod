@@ -1,4 +1,4 @@
-module github.com/jimsmart/grobotstxt
+module github.com/anatolym/grobotstxt
 
 go 1.14
 
